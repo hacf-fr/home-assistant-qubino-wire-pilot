@@ -1,3 +1,6 @@
+# DEPRECATED USE : https://github.com/piitaya/home-assistant-qubino-wire-pilot
+
+
 # home-assistant-qubino-wire-pilot
 
 Home Assistant Component for Qubino Wire Pilot
